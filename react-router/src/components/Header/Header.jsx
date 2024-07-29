@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link, NavLink} from 'react-router-dom'
-// link is used instead of a but a reloads the page so instead of a tag we use Link tag
-// a tag should not be used
+// link is used instead of <a> but <a> reloads the page so instead of <a> tag we use Link tag
+// <a> tag should not be used
 
 function Header() {
     return (
